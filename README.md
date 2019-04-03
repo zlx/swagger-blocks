@@ -1,5 +1,7 @@
 # Swagger::Blocks
 
+***try support ruby 1.8.7***
+
 [![Build Status](https://travis-ci.org/fotinakis/swagger-blocks.svg?branch=master)](https://travis-ci.org/fotinakis/swagger-blocks)
 [![Gem Version](https://badge.fury.io/rb/swagger-blocks.svg)](http://badge.fury.io/rb/swagger-blocks)
 
